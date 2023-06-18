@@ -17,7 +17,6 @@ Just a simple CRUD using exclusively Node.Js and Insomnia.
 5. Open Insomnia and type your methods.
 
 ## Usage
-
 1. A simple project to train your CRUD skills.
 
 ## License
@@ -26,4 +25,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Screenshots
 
-<img src="https://www.flickr.com/photos/198577141@N06/52983259064/in/dateposted-public/">
+<img src="[https://www.flickr.com/photos/198577141@N06/52983259064/in/dateposted-public/](https://www.flickr.com/photos/198577141@N06/52983259064/in/dateposted-public/)">
