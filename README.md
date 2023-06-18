@@ -25,4 +25,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Screenshots
 
-<img src="[https://www.flickr.com/photos/198577141@N06/52983259064/in/dateposted-public/](https://www.flickr.com/photos/198577141@N06/52983259064/in/dateposted-public/)">
+<img src="https://www.flickr.com/photos/198577141@N06/52983259064/in/dateposted-public/">
