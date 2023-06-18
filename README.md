@@ -8,6 +8,11 @@ Just a simple CRUD using exclusively Node.Js and Insomnia.
 - Update a course.
 - Delete a course.
 
+## Technologies used
+<div display: inline-block;>
+<img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/andredfontenele/NodeJs_Crud`.
